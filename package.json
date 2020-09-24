@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "aphrodite": "^0.5.0",
-    "prop-types": "^15.6.0",
+    "prop-types": "^15.6.2",
     "react-scrolllock": "^2.0.1",
     "react-transition-group": "2"
   },
